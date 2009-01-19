@@ -1,0 +1,16 @@
+C:\Documents and Settings\Administrator\Desktop\WiiWriter\WiiWriter\bin\Release\WiiWriter.exe
+C:\Documents and Settings\Administrator\Desktop\WiiWriter\WiiWriter\bin\Release\WiiWriter.pdb
+C:\Documents and Settings\Administrator\Desktop\WiiWriter\WiiWriter\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\WiiWriter\WiiWriter\obj\Release\StickyDesk.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\WiiWriter\WiiWriter\obj\Release\StickyDesk.Writer.resources
+C:\Documents and Settings\Administrator\Desktop\WiiWriter\WiiWriter\obj\Release\WiiWriter.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\WiiWriter\WiiWriter\obj\Release\WiiWriter.exe
+C:\Documents and Settings\Administrator\Desktop\WiiWriter\WiiWriter\obj\Release\WiiWriter.pdb
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\WiiWriter\WiiWriter\bin\Release\WiiWriter.exe
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\WiiWriter\WiiWriter\bin\Release\WiiWriter.pdb
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\WiiWriter\WiiWriter\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\WiiWriter\WiiWriter\obj\Release\StickyDesk.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\WiiWriter\WiiWriter\obj\Release\StickyDesk.Writer.resources
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\WiiWriter\WiiWriter\obj\Release\WiiWriter.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\WiiWriter\WiiWriter\obj\Release\WiiWriter.exe
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\WiiWriter\WiiWriter\obj\Release\WiiWriter.pdb

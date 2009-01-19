@@ -1,0 +1,82 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="1" />
+      <Item value="Image" priority="4" />
+      <Item value="int" priority="1" />
+      <Item value="if" priority="0" />
+      <Item value="width" priority="1" />
+      <Item value="height" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="image" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="cImageExtension" priority="4" />
+      <Item value="const" priority="0" />
+      <Item value="string" priority="2" />
+      <Item value="Environment" priority="2" />
+      <Item value="Directory" priority="0" />
+      <Item value="Utilities" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Image">
+      <Item value="FromFile" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Imaging.ImageFormat">
+      <Item value="Png" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="SpecialFolder" priority="2" />
+      <Item value="GetFolderPath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment+SpecialFolder">
+      <Item value="ApplicationData" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@StickyDesk.Utilities">
+      <Item value="ReadSendLocationsFromFile" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Writer.Designer.cs" caret="21896" scrollPosition="0|0" />
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Program.cs" caret="445" scrollPosition="0|0" />
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Writer.cs" caret="10162" scrollPosition="0|69" />
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Utilities.cs" caret="0" scrollPosition="0|45" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Utilities.cs" caret="0" scrollPosition="0|135" />
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Utilities.cs" caret="0" scrollPosition="0|24" />
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Utilities.cs" caret="0" scrollPosition="0|36" />
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Utilities.cs" caret="0" scrollPosition="0|57" />
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Utilities.cs" caret="0" scrollPosition="0|70" />
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Writer.cs" caret="10977" scrollPosition="0|334" />
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Writer.cs" caret="10134" scrollPosition="0|307" />
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Writer.Designer.cs" caret="21896" scrollPosition="0|384" />
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Writer.cs" caret="10429" scrollPosition="0|327" />
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Writer.cs" caret="2591" scrollPosition="0|81" />
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Writer.cs" caret="191" scrollPosition="0|0" />
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Program.cs" caret="137" scrollPosition="0|0" />
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Program.cs" caret="445" scrollPosition="9|0" />
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Utilities.cs" caret="0" scrollPosition="0|250" />
+      <File id="378ACC15-47DF-459D-828D-07670CBD01D0/f:Utilities.cs" caret="5610" scrollPosition="0|123" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

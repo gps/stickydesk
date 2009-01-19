@@ -1,0 +1,43 @@
+D:\Programming\WiiWriter\WiiWriter\bin\Debug\WiiWriter.exe
+D:\Programming\WiiWriter\WiiWriter\bin\Debug\WiiWriter.pdb
+D:\Programming\WiiWriter\WiiWriter\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\WiiWriter\WiiWriter\obj\Debug\WiiWriter.Properties.Resources.resources
+D:\Programming\WiiWriter\WiiWriter\obj\Debug\WiiWriter.Writer.resources
+D:\Programming\WiiWriter\WiiWriter\obj\Debug\WiiWriter.csproj.GenerateResource.Cache
+D:\Programming\WiiWriter\WiiWriter\obj\Debug\WiiWriter.exe
+D:\Programming\WiiWriter\WiiWriter\obj\Debug\WiiWriter.pdb
+D:\Programming\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\WiiWriter.exe
+D:\Programming\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\WiiWriter.pdb
+D:\Programming\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\WiiWriter.Properties.Resources.resources
+D:\Programming\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\WiiWriter.Writer.resources
+D:\Programming\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\WiiWriter.csproj.GenerateResource.Cache
+D:\Programming\Sticky Desk\WiiWriter\WiiWriter\bin\Debug\WiiWriter.exe
+D:\Programming\Sticky Desk\WiiWriter\WiiWriter\bin\Debug\WiiWriter.pdb
+C:\Documents and Settings\Administrator\Desktop\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\WiiWriter.exe
+C:\Documents and Settings\Administrator\Desktop\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\WiiWriter.pdb
+C:\Documents and Settings\Administrator\Desktop\Sticky Desk\WiiWriter\WiiWriter\bin\Debug\WiiWriter.exe
+C:\Documents and Settings\Administrator\Desktop\Sticky Desk\WiiWriter\WiiWriter\bin\Debug\WiiWriter.pdb
+C:\Documents and Settings\Administrator\Desktop\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\WiiWriter.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\WiiWriter.Writer.resources
+C:\Documents and Settings\Administrator\Desktop\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\WiiWriter.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\WiiWriter.SetSendLocation.resources
+C:\Users\gps\Documents\Programming\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\WiiWriter.exe
+C:\Users\gps\Documents\Programming\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\WiiWriter.pdb
+C:\Users\gps\Documents\Programming\Sticky Desk\WiiWriter\WiiWriter\bin\Debug\WiiWriter.exe
+C:\Users\gps\Documents\Programming\Sticky Desk\WiiWriter\WiiWriter\bin\Debug\WiiWriter.pdb
+C:\Users\gps\Documents\Programming\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gps\Documents\Programming\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\WiiWriter.csproj.GenerateResource.Cache
+C:\Users\gps\Documents\Programming\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\StickyDesk.Properties.Resources.resources
+C:\Users\gps\Documents\Programming\Sticky Desk\WiiWriter\WiiWriter\obj\Debug\StickyDesk.Writer.resources
+C:\Documents and Settings\Administrator\Desktop\WiiWriter\WiiWriter\obj\Debug\WiiWriter.exe
+C:\Documents and Settings\Administrator\Desktop\WiiWriter\WiiWriter\obj\Debug\WiiWriter.pdb
+C:\Documents and Settings\Administrator\Desktop\WiiWriter\WiiWriter\bin\Debug\WiiWriter.exe
+C:\Documents and Settings\Administrator\Desktop\WiiWriter\WiiWriter\bin\Debug\WiiWriter.pdb
+C:\Documents and Settings\Administrator\Desktop\WiiWriter\WiiWriter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\WiiWriter\WiiWriter\obj\Debug\StickyDesk.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\WiiWriter\WiiWriter\obj\Debug\StickyDesk.Writer.resources
+C:\Documents and Settings\Administrator\Desktop\WiiWriter\WiiWriter\obj\Debug\WiiWriter.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\WiiWriter\WiiWriter\obj\Debug\WiiWriter.exe
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\WiiWriter\WiiWriter\obj\Debug\WiiWriter.pdb

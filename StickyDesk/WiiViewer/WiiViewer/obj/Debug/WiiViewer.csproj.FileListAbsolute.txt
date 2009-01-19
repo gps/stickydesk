@@ -1,0 +1,53 @@
+D:\Programming\WiiViewer\WiiViewer\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\WiiViewer\WiiViewer\obj\Debug\WiiViewer.StickyDeskViewer.resources
+D:\Programming\WiiViewer\WiiViewer\obj\Debug\WiiViewer.Properties.Resources.resources
+D:\Programming\WiiViewer\WiiViewer\obj\Debug\WiiViewer.csproj.GenerateResource.Cache
+D:\Programming\WiiViewer\WiiViewer\bin\Debug\WiiViewer.exe
+D:\Programming\WiiViewer\WiiViewer\bin\Debug\WiiViewer.pdb
+D:\Programming\WiiViewer\WiiViewer\obj\Debug\WiiViewer.exe
+D:\Programming\WiiViewer\WiiViewer\obj\Debug\WiiViewer.pdb
+H:\Private\StickyDesk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.exe
+H:\Private\StickyDesk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.pdb
+H:\Private\StickyDesk\WiiViewer\WiiViewer\obj\Debug\ResolveAssemblyReference.cache
+H:\Private\StickyDesk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.StickyDeskViewer.resources
+H:\Private\StickyDesk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.Properties.Resources.resources
+H:\Private\StickyDesk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.csproj.GenerateResource.Cache
+H:\Private\StickyDesk\WiiViewer\WiiViewer\bin\Debug\WiiViewer.exe
+H:\Private\StickyDesk\WiiViewer\WiiViewer\bin\Debug\WiiViewer.pdb
+D:\Programming\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.exe
+D:\Programming\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.pdb
+D:\Programming\Sticky Desk\WiiViewer\WiiViewer\bin\Debug\WiiViewer.exe
+D:\Programming\Sticky Desk\WiiViewer\WiiViewer\bin\Debug\WiiViewer.pdb
+D:\Programming\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.StickyDeskViewer.resources
+D:\Programming\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.Properties.Resources.resources
+D:\Programming\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.exe
+C:\Documents and Settings\Administrator\Desktop\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.pdb
+C:\Documents and Settings\Administrator\Desktop\Sticky Desk\WiiViewer\WiiViewer\bin\Debug\WiiViewer.exe
+C:\Documents and Settings\Administrator\Desktop\Sticky Desk\WiiViewer\WiiViewer\bin\Debug\WiiViewer.pdb
+C:\Documents and Settings\Administrator\Desktop\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.StickyDeskViewer.resources
+C:\Documents and Settings\Administrator\Desktop\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.csproj.GenerateResource.Cache
+D:\Programming\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.SetWatchLocation.resources
+C:\Users\gps\Documents\Programming\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.exe
+C:\Users\gps\Documents\Programming\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.pdb
+C:\Users\gps\Documents\Programming\Sticky Desk\WiiViewer\WiiViewer\bin\Debug\WiiViewer.exe
+C:\Users\gps\Documents\Programming\Sticky Desk\WiiViewer\WiiViewer\bin\Debug\WiiViewer.pdb
+C:\Users\gps\Documents\Programming\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gps\Documents\Programming\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.csproj.GenerateResource.Cache
+C:\Users\gps\Documents\Programming\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\StickyDesk.Properties.Resources.resources
+C:\Users\gps\Documents\Programming\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\StickyDesk.SetWatchLocation.resources
+C:\Users\gps\Documents\Programming\Sticky Desk\WiiViewer\WiiViewer\obj\Debug\StickyDesk.Viewer.resources
+C:\Documents and Settings\Administrator\Desktop\WiiViewer\WiiViewer\obj\Debug\WiiViewer.exe
+C:\Documents and Settings\Administrator\Desktop\WiiViewer\WiiViewer\obj\Debug\WiiViewer.pdb
+C:\Documents and Settings\Administrator\Desktop\WiiViewer\WiiViewer\bin\Debug\WiiViewer.exe
+C:\Documents and Settings\Administrator\Desktop\WiiViewer\WiiViewer\bin\Debug\WiiViewer.pdb
+C:\Documents and Settings\Administrator\Desktop\WiiViewer\WiiViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\WiiViewer\WiiViewer\obj\Debug\StickyDesk.SetWatchLocation.resources
+C:\Documents and Settings\Administrator\Desktop\WiiViewer\WiiViewer\obj\Debug\StickyDesk.Viewer.resources
+C:\Documents and Settings\Administrator\Desktop\WiiViewer\WiiViewer\obj\Debug\StickyDesk.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\WiiViewer\WiiViewer\obj\Debug\WiiViewer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.exe
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\WiiViewer\WiiViewer\obj\Debug\WiiViewer.pdb

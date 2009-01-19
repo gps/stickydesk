@@ -1,0 +1,66 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6EF5E096-F623-4C8B-A0AE-C4376A9F17FE/f:FileInfoByNumberComparer.cs" caret="1367" scrollPosition="0|13" />
+      <File id="6EF5E096-F623-4C8B-A0AE-C4376A9F17FE/f:InvalidAppDataException.cs" caret="0" scrollPosition="0|0" />
+      <File id="6EF5E096-F623-4C8B-A0AE-C4376A9F17FE/f:Utilities.cs" caret="3279" scrollPosition="0|84" />
+      <File id="6EF5E096-F623-4C8B-A0AE-C4376A9F17FE/f:Program.cs" caret="267" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6EF5E096-F623-4C8B-A0AE-C4376A9F17FE/f:Utilities.cs" caret="5610" scrollPosition="0|124" />
+      <File id="6EF5E096-F623-4C8B-A0AE-C4376A9F17FE/f:Utilities.cs" caret="5402" scrollPosition="0|124" />
+      <File id="6EF5E096-F623-4C8B-A0AE-C4376A9F17FE/f:Utilities.cs" caret="120" scrollPosition="0|0" />
+      <File id="6EF5E096-F623-4C8B-A0AE-C4376A9F17FE/f:Program.cs" caret="674" scrollPosition="0|4" />
+      <File id="6EF5E096-F623-4C8B-A0AE-C4376A9F17FE/f:Program.cs" caret="87" scrollPosition="0|0" />
+      <File id="6EF5E096-F623-4C8B-A0AE-C4376A9F17FE/f:FileInfoByNumberComparer.cs" caret="1367" scrollPosition="0|13" />
+      <File id="6EF5E096-F623-4C8B-A0AE-C4376A9F17FE/f:InvalidAppDataException.cs" caret="815" scrollPosition="0|1" />
+      <File id="6EF5E096-F623-4C8B-A0AE-C4376A9F17FE/f:Program.cs" caret="376" scrollPosition="0|0" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Utilities" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="string" priority="1" />
+      <Item value="in" priority="0" />
+      <Item value="screens" priority="0" />
+      <Item value="process" priority="2" />
+      <Item value="new" priority="0" />
+      <Item value="Process" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="const" priority="0" />
+      <Item value="viewer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@StickyDesk.Utilities">
+      <Item value="ReadSendLocationsFromFile" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.Process">
+      <Item value="StartInfo" priority="1" />
+      <Item value="Start" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.ProcessStartInfo">
+      <Item value="FileName" priority="0" />
+      <Item value="Arguments" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

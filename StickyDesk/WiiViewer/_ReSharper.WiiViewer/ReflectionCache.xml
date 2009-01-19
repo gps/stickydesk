@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="1073741836">
+  <Assembly Name="Microsoft.VisualBasic.PowerPacks.Vs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Image="fe32234e-4109-4f3e-aeb6-3e932fd0ace7" Timestamp="633529557540000000" XmlDocIndexTimestamp="633362230120000000" />
+  <Assembly Name="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="b90189da-67f6-4815-9e65-d8164c4b7495" Timestamp="633529896480000000" XmlDocIndexTimestamp="633490219300000000" />
+  <Assembly Name="System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="b4eebfec-17e4-4378-a936-8abb35a9e574" Timestamp="633529896480000000" XmlDocIndexTimestamp="633490219300000000" />
+  <Assembly Name="System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="74bb199e-58ec-4cb7-b827-6cb005089587" Timestamp="633529896480000000" XmlDocIndexTimestamp="633490219300000000" />
+  <Assembly Name="JetBrains.Annotations, Version=4.1.933.3, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="273d3073-a643-4a6b-a795-b2617d73f01c" Timestamp="633559922920000000" XmlDocIndexTimestamp="633559922920000000" />
+</Assemblies>

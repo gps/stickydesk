@@ -1,0 +1,118 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="5" />
+      <Item value="destDir" priority="3" />
+      <Item value="GetSendFileName" priority="2" />
+      <Item value="Image" priority="1" />
+      <Item value="sourceFile" priority="0" />
+      <Item value="tmp" priority="2" />
+      <Item value="ImageFormatConverter" priority="0" />
+      <Item value="Utilities" priority="0" />
+      <Item value="foreach" priority="2" />
+      <Item value="in" priority="2" />
+      <Item value="screens" priority="0" />
+      <Item value="Application" priority="2" />
+      <Item value="new" priority="3" />
+      <Item value="screen" priority="1" />
+      <Item value="bool" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="if" priority="2" />
+      <Item value="first" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="else" priority="2" />
+      <Item value="Viewer" priority="2" />
+      <Item value="args" priority="5" />
+      <Item value="Length" priority="4" />
+      <Item value="MessageBox" priority="2" />
+      <Item value="MessageBoxButtons" priority="0" />
+      <Item value="Console" priority="1" />
+      <Item value="var" priority="1" />
+      <Item value="Environment" priority="1" />
+      <Item value="msg" priority="1" />
+      <Item value="a" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Image">
+      <Item value="FromFile" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Image">
+      <Item value="Save" priority="0" />
+      <Item value="Dispose" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@StickyDesk.Utilities">
+      <Item value="ReadSendLocationsFromFile" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Values" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="Run" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StickyDesk.Viewer">
+      <Item value="Show" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="OK" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="NewLine" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:Viewer.cs" caret="575" scrollPosition="0|7" />
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:Viewer.Designer.cs" caret="3989" scrollPosition="0|0" />
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:SetWatchLocation.cs" caret="0" scrollPosition="0|0" />
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:FileInfoByNumberComparer.cs" caret="1367" scrollPosition="0|0" />
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:InvalidAppDataException.cs" caret="815" scrollPosition="0|1" />
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:Utilities.cs" caret="4985" scrollPosition="0|0" />
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:Program.cs" caret="1324" scrollPosition="0|8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:Viewer.cs" caret="2433" scrollPosition="0|66" />
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:Viewer.cs" caret="4751" scrollPosition="0|128" />
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:Utilities.cs" caret="2568" scrollPosition="0|71" />
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:Utilities.cs" caret="5529" scrollPosition="0|127" />
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:Program.cs" caret="159" scrollPosition="0|0" />
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:Viewer.cs" caret="2075" scrollPosition="0|63" />
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:Viewer.cs" caret="575" scrollPosition="0|7" />
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:Program.cs" caret="1243" scrollPosition="0|5" />
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:Program.cs" caret="13" scrollPosition="0|0" />
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:Utilities.cs" caret="5610" scrollPosition="0|123" />
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:Program.cs" caret="1049" scrollPosition="0|8" />
+      <File id="349A86C5-17A9-489E-ACEF-04EEA9808379/f:Program.cs" caret="584" scrollPosition="0|8" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>
