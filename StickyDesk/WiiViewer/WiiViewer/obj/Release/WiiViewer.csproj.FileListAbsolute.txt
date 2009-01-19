@@ -16,3 +16,12 @@ C:\Documents and Settings\Administrator\Desktop\StickyDesk\WiiViewer\WiiViewer\o
 C:\Documents and Settings\Administrator\Desktop\StickyDesk\WiiViewer\WiiViewer\obj\Release\StickyDesk.Viewer.resources
 C:\Documents and Settings\Administrator\Desktop\StickyDesk\WiiViewer\WiiViewer\obj\Release\StickyDesk.Properties.Resources.resources
 C:\Documents and Settings\Administrator\Desktop\StickyDesk\WiiViewer\WiiViewer\obj\Release\WiiViewer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\StickyDesk\WiiViewer\WiiViewer\obj\Release\WiiViewer.exe
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\StickyDesk\WiiViewer\WiiViewer\obj\Release\WiiViewer.pdb
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\StickyDesk\WiiViewer\WiiViewer\bin\Release\WiiViewer.exe
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\StickyDesk\WiiViewer\WiiViewer\bin\Release\WiiViewer.pdb
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\StickyDesk\WiiViewer\WiiViewer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\StickyDesk\WiiViewer\WiiViewer\obj\Release\StickyDesk.SetWatchLocation.resources
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\StickyDesk\WiiViewer\WiiViewer\obj\Release\StickyDesk.Viewer.resources
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\StickyDesk\WiiViewer\WiiViewer\obj\Release\StickyDesk.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\StickyDesk\StickyDesk\WiiViewer\WiiViewer\obj\Release\WiiViewer.csproj.GenerateResource.Cache

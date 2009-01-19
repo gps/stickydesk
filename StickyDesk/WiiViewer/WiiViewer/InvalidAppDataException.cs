@@ -5,28 +5,18 @@ namespace StickyDesk
     /// Exception class that is thrown when App Data file
     /// is found to be invalid.
     /// </summary>
-    class InvalidAppDataException : Exception
+    class InvalidAppDataException : ApplicationException
     {
-        /// <summary>
-        /// Default constructor.
-        /// </summary>
-        public InvalidAppDataException()
-        {
-        }
+        public InvalidAppDataException() { }
 
-        /// <summary>
-        /// Constructor.
-        /// Initializes Error Message to strErrMsg.
-        /// </summary>
-        /// <param name="ErrMsg">Error Message</param>
-        public InvalidAppDataException(string ErrMsg)
-        {
-            Message = ErrMsg;
-        }
+        public InvalidAppDataException(string message) : base(message) { }
 
-        /// <summary>
-        /// Contains Error Message.
-        /// </summary>
-        public new string Message { get; private set; }
+        public InvalidAppDataException(string message, Exception inner) : base(message, inner) { }
+
+        // Constructor needed for serialization 
+        // when exception propagates from a remoting server to the client.
+        protected InvalidAppDataException(System.Runtime.Serialization.SerializationInfo info,
+            System.Runtime.Serialization.StreamingContext context)
+            : base(info, context) { }
     }
 }
