@@ -1,5 +1,0 @@
-C:\Documents and Settings\Administrator\Desktop\LaunchWiiViewer\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Administrator\Desktop\LaunchWiiViewer\bin\Debug\LaunchWiiViewer.exe
-C:\Documents and Settings\Administrator\Desktop\LaunchWiiViewer\bin\Debug\LaunchWiiViewer.pdb
-C:\Documents and Settings\Administrator\Desktop\LaunchWiiViewer\obj\Debug\LaunchWiiViewer.exe
-C:\Documents and Settings\Administrator\Desktop\LaunchWiiViewer\obj\Debug\LaunchWiiViewer.pdb

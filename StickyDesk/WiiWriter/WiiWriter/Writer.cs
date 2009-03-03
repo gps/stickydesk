@@ -92,6 +92,11 @@ namespace StickyDesk
         /// </summary>
         private const string cAppDataFile = "AppData.txt";
 
+        /// <summary>
+        /// Width of writing pen.
+        /// </summary>
+        private const float cPenWidth = 5.0F;
+
         #endregion
 
         #region Private Methods
@@ -151,7 +156,7 @@ namespace StickyDesk
                     {
                         using (Pen pen = new Pen(mForeground))
                         {
-                            pen.Width = 5.0F;
+                            pen.Width = cPenWidth;
                             graphics.DrawLine(pen, mMouseX, mMouseY, e.X, e.Y);
                         }
                     }

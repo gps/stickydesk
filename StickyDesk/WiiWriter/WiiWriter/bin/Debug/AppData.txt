@@ -1,7 +1,0 @@
-6
-Screen 1|C:\Documents and Settings\Administrator\Desktop\StickyDeskImages\Screen1\
-Screen 2|C:\Documents and Settings\Administrator\Desktop\StickyDeskImages\Screen2\
-Screen 3|C:\Documents and Settings\Administrator\Desktop\StickyDeskImages\Screen3\
-Screen 4|C:\Documents and Settings\Administrator\Desktop\StickyDeskImages\Screen4\
-Screen 5|C:\Documents and Settings\Administrator\Desktop\StickyDeskImages\Screen5\
-Screen 6|C:\Documents and Settings\Administrator\Desktop\StickyDeskImages\Screen6\
