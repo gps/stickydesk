@@ -151,6 +151,7 @@ namespace StickyDesk
                     {
                         using (Pen pen = new Pen(mForeground))
                         {
+                            pen.Width = 5.0F;
                             graphics.DrawLine(pen, mMouseX, mMouseY, e.X, e.Y);
                         }
                     }
